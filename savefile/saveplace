@@ -1,0 +1,37 @@
+;;; -*- coding: utf-8 -*-
+(("/Users/ethan/Desktop/project/ocaml/PBFT/pbft/src/server/dune" . 48)
+ ("/Users/ethan/Desktop/project/ocaml/PBFT/pbft/src/message_buffer/record_manager.ml" . 4)
+ ("/Users/ethan/Desktop/project/ocaml/PBFT/pbft/src/rpcs/server_preprepare_rpcs.ml" . 170)
+ ("/Users/ethan/Desktop/project/ocaml/PBFT/pbft/src/server/server.ml" . 10)
+ ("/Users/ethan/.emacs.d/savefile/recentf" . 11351)
+ ("/Users/ethan/Desktop/project/ocaml/PBFT/pbft/src/message_buffer/dune" . 63)
+ ("/Users/ethan/.emacs.d/init.el" . 6923)
+ ("/Users/ethan/Desktop/project/ocaml/PBFT/pbft/src/message_buffer/record_manager.mli" . 75)
+ ("/Users/ethan/Desktop/project/ocaml/PBFT/pbft/src/message_buffer/message_buffer.ml" . 4736)
+ ("/Users/ethan/Desktop/project/ocaml/PBFT/pbft/src/utils/common.ml" . 43)
+ ("/Users/ethan/.opam/default/share/emacs/site-lisp/ocamlformat.el" . 11143)
+ ("/Users/ethan/.emacs.d/opam-user-setup.el" . 5304)
+ ("/Users/ethan/Desktop/"
+  (dired-filename . "/Users/ethan/Desktop/pre-prelude"))
+ ("/Users/ethan/Desktop/pre-prelude" . 4305)
+ ("/Users/ethan/Desktop/project/ocaml/PBFT/pbft/src/utils/dune" . 47)
+ ("/Users/ethan/Desktop/project/ocaml/PBFT/pbft/src/rpcs/interface.ml" . 354)
+ ("/Users/ethan/.emacs.d/elpa/helm-projectile-20190731.1538/helm-projectile-autoloads.el" . 2339)
+ ("/Users/ethan/.emacs.d/elpa/helm-20200220.1651/helm-autoloads.el" . 34147)
+ ("/Users/ethan/.emacs.d/elpa/helm-core-20200207.1836/helm-core-autoloads.el" . 6801)
+ ("/Users/ethan/.emacs.d/elpa/company-20200206.2239/company-autoloads.el" . 12212)
+ ("/Users/ethan/Desktop/project/ocaml/PBFT/"
+  (dired-filename . "/Users/ethan/Desktop/project/ocaml/PBFT/.git"))
+ ("/Users/ethan/.emacs.d/"
+  (dired-filename . "/Users/ethan/.emacs.d/init.el"))
+ ("/Users/ethan/"
+  (dired-filename . "/Users/ethan/.emacs.pre-prelude"))
+ ("/Users/ethan/.emacs.d/elpa/popup-20160709.1429/popup-autoloads.el" . 392)
+ ("/Users/ethan/.emacs.d/savefile/"
+  (dired-filename . "/Users/ethan/.emacs.d/savefile/.."))
+ ("/Users/ethan/.emacs.d/personal/"
+  (dired-filename . "/Users/ethan/.emacs.d/personal/.."))
+ ("/Users/ethan/.emacs.d/elpa/merlin-20191025.851/merlin-autoloads.el" . 2426)
+ ("/Users/ethan/.emacs.d/elpa/tuareg-20191220.2314/tuareg-autoloads.el" . 4857)
+ ("/Users/ethan/.emacs.d/elpa/caml-20190413.1205/caml-autoloads.el" . 3224)
+ ("/Users/ethan/.emacs.d/elpa/exec-path-from-shell-20191229.112/exec-path-from-shell-autoloads.el" . 1420))
